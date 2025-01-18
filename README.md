@@ -8,7 +8,6 @@
   <br>
   🎓 Graduated in Computer Science <br> at Cruzeiro do Sul Virtual.
   <br>
-  💻 Graduating in Systems for Internet Technologist at Fatec Lins - Professor Antônio Seabra.
 </p>
 
 <div align="left">
@@ -24,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
