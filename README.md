@@ -2,7 +2,7 @@
 
 <p align="left">
   Meu nome é Lívia Martins e sou Desenvolvedora Front-end.<br>
-  ✨ 22 anos.<br>
+  ✨ 23 anos.<br>
   🏠 De Promissão - São Paulo.<br>
   🎓 Formada em Ciência da Computação pela Cruzeiro do Sul Virtual.<br>
 </p>
